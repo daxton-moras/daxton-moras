@@ -8,14 +8,7 @@
 
 
 # 💫 About Me:
-Enthusiastic Computer Graduate with experience in Software Development, Customer Support and Data Science.
-Currently working as Cloud Engineer at AWS. 
-Former employee at CleanData, an innovative startup working semi automatic vehicles.
-Completed Masters in Computer Science specializing in Data Science and Software development at University College Dublin, Ireland.
-Secondary interests being Data Warehousing, Big Data and Cloud Computing.
-Former employee at Cognizant Technology Solutions, Bangalore, India.
-Completed Bachelor's degree in Computer Science at Mumbai University, India.
-Interned at Trivia Softwares, Mumbai, India.
+Enthusiastic Computer Science Graduate with experience in Software Development, Customer Support and Data Science. Currently working as Cloud Engineer at AWS.I possess hands-on experience with AWS Redshift, AWS Glue, AWS Athena, AWS Quicksight, AWS Neptune, and AWS Datazone, supporting clients in architecting efficient data pipelines, optimizing data workflows, and ensuring seamless data integration and transformation. My collaborative work with global AWS teams has deepened my understanding of cloud-based data engineering best practices and the evolving analytics landscape.
 
 
 # 🌐 Socials:
