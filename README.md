@@ -8,7 +8,13 @@
 
 
 # 💫 About Me:
-Enthusiastic Computer Science Graduate with experience in Software Development, Customer Support and Data Science. Currently working as Cloud Engineer at AWS.I possess hands-on experience with AWS Redshift, AWS Glue, AWS Athena, AWS Quicksight, AWS Neptune, and AWS Datazone, supporting clients in architecting efficient data pipelines, optimizing data workflows, and ensuring seamless data integration and transformation. My collaborative work with global AWS teams has deepened my understanding of cloud-based data engineering best practices and the evolving analytics landscape.
+Cloud Engineer with over three years of experience across cloud support, databases, data
+warehousing, analytics, and business intelligence. I combine strong technical depth with business
+understanding to translate requirements into robust, production-ready solutions. Throughout my
+career, I’ve focused on leveraging advanced cloud technologies and data platforms to help customers
+succeed, using systematic troubleshooting, root cause analysis, and performance optimization. My
+core strength is using cloud infrastructure and data systems to deliver reliable, scalable, and
+insight-driven solutions that support informed decision-making.
 
 
 # 🌐 Socials:
