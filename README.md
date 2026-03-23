@@ -106,8 +106,25 @@ I enjoy taking messy, production workloads and making them reliable, observable,
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Daxton's GitHub stats](https://github-readme-stats.vercel.app/api?username=daxton-moras&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=daxton-moras&theme=tokyonight&hide_border=true&show_icons=true"
+    alt="Daxton's GitHub stats"
+  />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daxton-moras&theme=radical&hide_border=false)
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=daxton-moras&theme=tokyonight&hide_border=true"
+    alt="Daxton's GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxton-moras&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top languages"
+  />
+</p>
