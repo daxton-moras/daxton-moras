@@ -86,10 +86,16 @@ I enjoy taking messy, production workloads and making them reliable, observable,
 
 ## 📌 What I Work On
 
-- Designing and troubleshooting **analytics workloads** on AWS (Redshift, Snowflake, DataZone, RDS).  
-- Using **AWS CloudFormation** (JSON/YAML) to deploy Redshift clusters, VPCs, and security groups consistently across accounts.[file:1][web:79]  
-- Supporting **production customers** with performance tuning, incident response, and root‑cause analysis.  
-- Deploying and supporting **computer‑vision safety systems** at Protex AI, including on‑prem devices, networking, and integrations into EHS/BI platforms.[file:1]
+**Currently – Protex AI (Implementation Engineer)**  
+- Deploying and supporting Protex AI’s computer‑vision safety systems at customer sites, including cameras, edge devices, and cloud configuration.  
+- Working with customer network and security teams on IP addressing, VLANs, VPNs, and firewall rules so edge devices can reliably reach Protex services and EHS/BI integrations.  
+- Troubleshooting Linux‑based edge devices and networking issues using logs, metrics, and structured root‑cause analysis.  
+- Using Jira and Confluence to track rollout tasks, document runbooks, and collaborate with product/engineering on smooth go‑lives.[file:1]
+
+**Previously – AWS (Cloud Support Engineer)**  
+- Supporting customer **analytics workloads on AWS** using Redshift, Snowflake, DataZone, RDS, and related services.  
+- Using **AWS CloudFormation** (JSON/YAML) to define and deploy Redshift clusters, VPC networking, and security groups as reusable templates across accounts.[file:1][web:79]  
+- Handling production incidents for data/analytics stacks: performance tuning, systematic troubleshooting, and long‑term fixes in partnership with service teams.[file:1]
 
 ---
 
