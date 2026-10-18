@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <a href="https://daxton-portfolio-iota.vercel.app"><img src="https://img.shields.io/badge/Portfolio-daxton--portfolio--iota.vercel.app-608cff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
   <!-- Replace developer.gif with any GIF you like in this repo -->
   <img src="https://github.com/daxton-moras/daxton-moras/blob/main/developer.gif" width="460" height="300" alt="Developer at desk" />
 </p>
@@ -11,14 +15,12 @@
 
 ## 💫 About Me
 
-Cloud Engineer with 3+ years of experience across cloud support, databases, data warehousing, analytics, and business intelligence.[^cv]  
+Cloud Engineer with 4+ years of experience across cloud support, databases, data warehousing, analytics, and business intelligence.  
 I enjoy taking messy, production workloads and making them reliable, observable, and easy to reason about.
 
-- Currently **Implementation Engineer at Protex AI**, deploying computer‑vision safety systems, integrating with customer EHS/BI tools, and troubleshooting Linux/networking issues in the field.[^cv]
-- Previously **Cloud Support Engineer at AWS**, supporting analytics services (Redshift, QuickSight, Neptune, DataZone), doing deep‑dive investigations and performance tuning for data pipelines and warehouses.[^cv]
+- Currently **Implementation Engineer at Protex AI**, deploying computer‑vision safety systems, integrating with customer EHS/BI tools, and troubleshooting Linux/networking issues in the field.
+- Previously **Cloud Support Engineer at AWS**, supporting analytics services (Redshift, QuickSight, Neptune, DataZone), doing deep‑dive investigations and performance tuning for data pipelines and warehouses.
 - Comfortable working directly with customers, doing systematic troubleshooting and root‑cause analysis, and turning findings into runbooks, automation, and better architectures.
-
-[^cv]: Details based on my latest CV.
 
 ---
 
@@ -32,7 +34,7 @@ I enjoy taking messy, production workloads and making them reliable, observable,
 - 🥇 **AWS Support Awards**
   - [All‑Rounder Award](https://www.credly.com/badges/410d2ec2-0e23-4f7c-9ad8-fa42bd2501cb/public_url)
   - [Wise Guru Award](https://www.credly.com/badges/623f6388-9c75-4d42-b338-22b3e66e68ab/public_url)
-  - [Most Valuable Player Award](https://www.credly.com/badges/14724238-846d-4607-b4ac-2480ad040ea4/public_url) (x2)
+  - Most Valuable Player Award, awarded twice ([badge 1](https://www.credly.com/badges/fb1322a2-d7c8-4eb8-85f7-db71017354b1/public_url), [badge 2](https://www.credly.com/badges/14724238-846d-4607-b4ac-2480ad040ea4/public_url))
 
 ---
 
@@ -90,18 +92,19 @@ I enjoy taking messy, production workloads and making them reliable, observable,
 - Deploying and supporting Protex AI’s computer‑vision safety systems at customer sites, including cameras, edge devices, and cloud configuration.  
 - Working with customer network and security teams on IP addressing, VLANs, VPNs, and firewall rules so edge devices can reliably reach Protex services and EHS/BI integrations.  
 - Troubleshooting Linux‑based edge devices and networking issues using logs, metrics, and structured root‑cause analysis.  
-- Using Jira and Confluence to track rollout tasks, document runbooks, and collaborate with product/engineering on smooth go‑lives.[file:1]
+- Using Jira and Confluence to track rollout tasks, document runbooks, and collaborate with product/engineering on smooth go‑lives.
 
 **Previously – AWS (Cloud Support Engineer)**  
 - Supporting customer **analytics workloads on AWS** using Redshift, Snowflake, DataZone, RDS, and related services.  
-- Using **AWS CloudFormation** (JSON/YAML) to define and deploy Redshift clusters, VPC networking, and security groups as reusable templates across accounts.[file:1][web:79]  
-- Handling production incidents for data/analytics stacks: performance tuning, systematic troubleshooting, and long‑term fixes in partnership with service teams.[file:1]
+- Using **AWS CloudFormation** (JSON/YAML) to define and deploy Redshift clusters, VPC networking, and security groups as reusable templates across accounts.  
+- Handling production incidents for data/analytics stacks: performance tuning, systematic troubleshooting, and long‑term fixes in partnership with service teams.
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daxton-moras)
+[![Portfolio](https://img.shields.io/badge/Portfolio-608cff.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://daxton-portfolio-iota.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daxtonmoras)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daxton-moras)
 
 ---
