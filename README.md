@@ -3,8 +3,8 @@
 </a>
 
 <p align="center">
-  <a href="https://daxton-portfolio-iota.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161616?style=for-the-badge&logo=vercel&logoColor=ededed" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/daxtonmoras"><img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://daxton-portfolio-iota.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1228?style=for-the-badge&logo=vercel&logoColor=f3f5ff" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/daxtonmoras"><img src="https://img.shields.io/badge/LinkedIn-0d1228?style=for-the-badge" alt="LinkedIn" /></a>
 </p>
 
 <br />
@@ -31,48 +31,48 @@ Cloud Engineer with **4+ years** across cloud support, databases, data warehousi
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" align="top" alt="" /> Tech stack
 
 **Languages**<br />
-![Python](https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=ededed)
-![SQL](https://img.shields.io/badge/SQL-161616?style=for-the-badge&logo=postgresql&logoColor=ededed)
+![Python](https://img.shields.io/badge/Python-0d1228?style=for-the-badge&logo=python&logoColor=f3f5ff)
+![SQL](https://img.shields.io/badge/SQL-0d1228?style=for-the-badge&logo=postgresql&logoColor=f3f5ff)
 
 **Cloud & data (AWS first)**<br />
-![AWS](https://img.shields.io/badge/AWS-161616?style=for-the-badge)
-![EC2](https://img.shields.io/badge/EC2-161616?style=for-the-badge)
-![S3](https://img.shields.io/badge/S3-161616?style=for-the-badge)
-![VPC](https://img.shields.io/badge/VPC-161616?style=for-the-badge)
-![IAM](https://img.shields.io/badge/IAM-161616?style=for-the-badge)
-![RDS](https://img.shields.io/badge/RDS-161616?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161616?style=for-the-badge&logo=postgresql&logoColor=ededed)
-![MySQL](https://img.shields.io/badge/MySQL-161616?style=for-the-badge&logo=mysql&logoColor=ededed)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-161616?style=for-the-badge)
-![Neptune](https://img.shields.io/badge/Neptune-161616?style=for-the-badge)
-![Redshift](https://img.shields.io/badge/Redshift-161616?style=for-the-badge)
-![Snowflake](https://img.shields.io/badge/Snowflake-161616?style=for-the-badge&logo=snowflake&logoColor=ededed)
-![DataZone](https://img.shields.io/badge/DataZone-161616?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-0d1228?style=for-the-badge)
+![EC2](https://img.shields.io/badge/EC2-0d1228?style=for-the-badge)
+![S3](https://img.shields.io/badge/S3-0d1228?style=for-the-badge)
+![VPC](https://img.shields.io/badge/VPC-0d1228?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-0d1228?style=for-the-badge)
+![RDS](https://img.shields.io/badge/RDS-0d1228?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1228?style=for-the-badge&logo=postgresql&logoColor=f3f5ff)
+![MySQL](https://img.shields.io/badge/MySQL-0d1228?style=for-the-badge&logo=mysql&logoColor=f3f5ff)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-0d1228?style=for-the-badge)
+![Neptune](https://img.shields.io/badge/Neptune-0d1228?style=for-the-badge)
+![Redshift](https://img.shields.io/badge/Redshift-0d1228?style=for-the-badge)
+![Snowflake](https://img.shields.io/badge/Snowflake-0d1228?style=for-the-badge&logo=snowflake&logoColor=f3f5ff)
+![DataZone](https://img.shields.io/badge/DataZone-0d1228?style=for-the-badge)
 
 **Infrastructure, observability & DevOps**<br />
-![CloudFormation](https://img.shields.io/badge/CloudFormation-161616?style=for-the-badge)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-161616?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-161616?style=for-the-badge&logo=docker&logoColor=ededed)
-![Linux](https://img.shields.io/badge/Linux-161616?style=for-the-badge&logo=linux&logoColor=ededed)
-![Prometheus](https://img.shields.io/badge/Prometheus-161616?style=for-the-badge&logo=prometheus&logoColor=ededed)
-![Grafana](https://img.shields.io/badge/Grafana-161616?style=for-the-badge&logo=grafana&logoColor=ededed)
-![Git](https://img.shields.io/badge/Git-161616?style=for-the-badge&logo=git&logoColor=ededed)
-![GitHub](https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=ededed)
-![Kubernetes (learning)](https://img.shields.io/badge/Kubernetes-learning-2b2b2b?style=for-the-badge&logo=kubernetes&logoColor=ededed&labelColor=161616)
-![Terraform (learning)](https://img.shields.io/badge/Terraform-learning-2b2b2b?style=for-the-badge&logo=terraform&logoColor=ededed&labelColor=161616)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-0d1228?style=for-the-badge)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-0d1228?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-0d1228?style=for-the-badge&logo=docker&logoColor=f3f5ff)
+![Linux](https://img.shields.io/badge/Linux-0d1228?style=for-the-badge&logo=linux&logoColor=f3f5ff)
+![Prometheus](https://img.shields.io/badge/Prometheus-0d1228?style=for-the-badge&logo=prometheus&logoColor=f3f5ff)
+![Grafana](https://img.shields.io/badge/Grafana-0d1228?style=for-the-badge&logo=grafana&logoColor=f3f5ff)
+![Git](https://img.shields.io/badge/Git-0d1228?style=for-the-badge&logo=git&logoColor=f3f5ff)
+![GitHub](https://img.shields.io/badge/GitHub-0d1228?style=for-the-badge&logo=github&logoColor=f3f5ff)
+![Kubernetes (learning)](https://img.shields.io/badge/Kubernetes-learning-1f2a5c?style=for-the-badge&logo=kubernetes&logoColor=f3f5ff&labelColor=0d1228)
+![Terraform (learning)](https://img.shields.io/badge/Terraform-learning-1f2a5c?style=for-the-badge&logo=terraform&logoColor=f3f5ff&labelColor=0d1228)
 
 **Analytics, BI & tools**<br />
-![Tableau](https://img.shields.io/badge/Tableau-161616?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-161616?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-161616?style=for-the-badge&logo=jupyter&logoColor=ededed)
-![VS Code](https://img.shields.io/badge/VS%20Code-161616?style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-161616?style=for-the-badge&logo=jira&logoColor=ededed)
-![Confluence](https://img.shields.io/badge/Confluence-161616?style=for-the-badge&logo=confluence&logoColor=ededed)
+![Tableau](https://img.shields.io/badge/Tableau-0d1228?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-0d1228?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1228?style=for-the-badge&logo=jupyter&logoColor=f3f5ff)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1228?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0d1228?style=for-the-badge&logo=jira&logoColor=f3f5ff)
+![Confluence](https://img.shields.io/badge/Confluence-0d1228?style=for-the-badge&logo=confluence&logoColor=f3f5ff)
 
 **AI dev tools**<br />
-![Claude](https://img.shields.io/badge/Claude-161616?style=for-the-badge&logo=claude&logoColor=ededed)
-![Cursor](https://img.shields.io/badge/Cursor-161616?style=for-the-badge&logo=cursor&logoColor=ededed)
-![Gemini](https://img.shields.io/badge/Gemini-161616?style=for-the-badge&logo=googlegemini&logoColor=ededed)
+![Claude](https://img.shields.io/badge/Claude-0d1228?style=for-the-badge&logo=claude&logoColor=f3f5ff)
+![Cursor](https://img.shields.io/badge/Cursor-0d1228?style=for-the-badge&logo=cursor&logoColor=f3f5ff)
+![Gemini](https://img.shields.io/badge/Gemini-0d1228?style=for-the-badge&logo=googlegemini&logoColor=f3f5ff)
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" align="top" alt="" /> What I work on
 
@@ -108,12 +108,12 @@ Cloud Engineer with **4+ years** across cloud support, databases, data warehousi
 ## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30" align="top" alt="" /> GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daxton-moras&show_icons=true&hide_rank=true&hide=stars,issues&hide_border=true&bg_color=0a0a0a&title_color=ededed&text_color=888888&icon_color=ededed&ring_color=ededed&border_radius=6" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxton-moras&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ededed&text_color=888888&border_radius=6" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daxton-moras&show_icons=true&hide_rank=true&hide=stars,issues&hide_border=true&bg_color=0d1228&title_color=f3f5ff&text_color=a4abc6&icon_color=608cff&ring_color=a77bff&border_radius=6" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxton-moras&layout=compact&hide_border=true&bg_color=0d1228&title_color=f3f5ff&text_color=a4abc6&border_radius=6" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=daxton-moras&hide_border=true&background=0a0a0a&ring=ededed&fire=ededed&currStreakNum=ededed&sideNums=ededed&currStreakLabel=888888&sideLabels=888888&dates=555555&stroke=2b2b2b&border_radius=6" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=daxton-moras&hide_border=true&background=0d1228&ring=a77bff&fire=ff7ab6&currStreakNum=f3f5ff&sideNums=f3f5ff&currStreakLabel=a4abc6&sideLabels=a4abc6&dates=737b9a&stroke=1f2a5c&border_radius=6" alt="GitHub streak" />
 </p>
 
 <p align="center">
