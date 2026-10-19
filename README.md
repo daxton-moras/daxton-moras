@@ -108,16 +108,20 @@ Cloud Engineer with **4+ years** across cloud support, databases, data warehousi
 ## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30" align="top" alt="" /> GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daxton-moras&show_icons=true&hide_rank=true&hide=stars,issues&hide_border=true&bg_color=0d1228&title_color=f3f5ff&text_color=a4abc6&icon_color=608cff&ring_color=a77bff&border_radius=6" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxton-moras&layout=compact&hide_border=true&bg_color=0d1228&title_color=f3f5ff&text_color=a4abc6&border_radius=6" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daxton-moras&show_icons=true&hide_rank=true&hide=stars,issues&hide_border=true&bg_color=0a0a0a&title_color=ededed&text_color=888888&icon_color=ededed&ring_color=ededed&border_radius=6" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxton-moras&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ededed&text_color=888888&border_radius=6" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=daxton-moras&hide_border=true&background=0d1228&ring=a77bff&fire=ff7ab6&currStreakNum=f3f5ff&sideNums=f3f5ff&currStreakLabel=a4abc6&sideLabels=a4abc6&dates=737b9a&stroke=1f2a5c&border_radius=6" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=daxton-moras&hide_border=true&background=0a0a0a&ring=ededed&fire=ededed&currStreakNum=ededed&sideNums=ededed&currStreakLabel=888888&sideLabels=888888&dates=555555&stroke=2b2b2b&border_radius=6" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/daxton-moras/daxton-moras/output/snake-dark.svg" alt="Snake eating my contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daxton-moras/daxton-moras/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daxton-moras/daxton-moras/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/daxton-moras/daxton-moras/output/snake-dark.svg" alt="Snake eating my contribution graph" />
+  </picture>
 </p>
 
 <p align="center"><sub>More at <a href="https://daxton-portfolio-iota.vercel.app">daxton-portfolio-iota.vercel.app</a></sub></p>

@@ -19,21 +19,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-dark.svg?color_snake=#a77bff&color_dots=#0d1228,#1f2a5c,#3a4c9e,#608cff,#a77bff
-
-      # snk draws on a transparent background; give it the portfolio's dark
-      # background so it reads as dark on GitHub's light theme too.
-      - name: Add dark background
-        run: |
-          sudo python3 - <<'PY'
-          import re
-          p = "dist/snake-dark.svg"
-          s = open(p).read()
-          x, y, w, h = re.search(r'viewBox="([-\d.]+) ([-\d.]+) ([\d.]+) ([\d.]+)"', s).groups()
-          bg = f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="12" fill="#060a18"/>'
-          s = s.replace("</desc>", "</desc>" + bg, 1)
-          open(p, "w").write(s)
-          PY
+            dist/snake-dark.svg?color_snake=#ededed&color_dots=#161616,#2b2b2b,#4d4d4d,#888888,#ededed
+            dist/snake-light.svg?color_snake=#0a0a0a&color_dots=#ebedf0,#cfcfcf,#a3a3a3,#6b6b6b,#0a0a0a
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
