@@ -117,11 +117,7 @@ Cloud Engineer with **4+ years** across cloud support, databases, data warehousi
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daxton-moras/daxton-moras/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daxton-moras/daxton-moras/output/snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/daxton-moras/daxton-moras/output/snake-dark.svg" alt="Snake eating my contribution graph" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/daxton-moras/daxton-moras/output/snake-dark.svg" alt="Snake eating my contribution graph" />
 </p>
 
 <p align="center"><sub>More at <a href="https://daxton-portfolio-iota.vercel.app">daxton-portfolio-iota.vercel.app</a></sub></p>
