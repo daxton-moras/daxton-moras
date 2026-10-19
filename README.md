@@ -1,133 +1,127 @@
-<h1 align="center">
-  👋 Hi tech minds, Daxton here
-</h1>
+<a href="https://daxton-portfolio-iota.vercel.app">
+  <img src="./assets/header.svg" width="100%" alt="Daxton Moras: AWS-certified Cloud &amp; AI engineer running GPU-accelerated edge inference in production. Implementation Engineer, Physical AI &amp; Edge Systems at Protex AI. Open to Cloud &amp; AI infrastructure roles, Dublin, Ireland." />
+</a>
 
 <p align="center">
-  <a href="https://daxton-portfolio-iota.vercel.app"><img src="https://img.shields.io/badge/Portfolio-daxton--portfolio--iota.vercel.app-608cff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://daxton-portfolio-iota.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161616?style=for-the-badge&logo=vercel&logoColor=ededed" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/daxtonmoras"><img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge" alt="LinkedIn" /></a>
+</p>
+
+<br />
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30" align="top" alt="" /> About me
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
+Cloud Engineer with **4+ years** across cloud support, databases, data warehousing, analytics, and BI. I like taking messy production workloads and making them reliable, observable, and easy to reason about.
+
+- **Now:** Implementation Engineer at **Protex AI**, deploying computer‑vision safety systems and troubleshooting Linux and networking in the field.
+- **Before:** Cloud Support Engineer at **AWS**, on Redshift, QuickSight, Neptune and DataZone: deep dives and performance tuning for pipelines and warehouses.
+- **Next:** AI infrastructure, data engineering, and agentic workflows.
+
+</td>
+    <td width="42%" align="center" valign="middle">
+      <img src="./assets/pipeline.gif" width="100%" alt="Animated cloud data pipeline: sources, stream, lake, transform and warehouse feed vectors, GPU inference and an AI agent loop" />
+    </td>
+  </tr>
+</table>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" align="top" alt="" /> Tech stack
+
+**Languages**<br />
+![Python](https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=ededed)
+![SQL](https://img.shields.io/badge/SQL-161616?style=for-the-badge&logo=postgresql&logoColor=ededed)
+
+**Cloud & data (AWS first)**<br />
+![AWS](https://img.shields.io/badge/AWS-161616?style=for-the-badge)
+![EC2](https://img.shields.io/badge/EC2-161616?style=for-the-badge)
+![S3](https://img.shields.io/badge/S3-161616?style=for-the-badge)
+![VPC](https://img.shields.io/badge/VPC-161616?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-161616?style=for-the-badge)
+![RDS](https://img.shields.io/badge/RDS-161616?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161616?style=for-the-badge&logo=postgresql&logoColor=ededed)
+![MySQL](https://img.shields.io/badge/MySQL-161616?style=for-the-badge&logo=mysql&logoColor=ededed)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-161616?style=for-the-badge)
+![Neptune](https://img.shields.io/badge/Neptune-161616?style=for-the-badge)
+![Redshift](https://img.shields.io/badge/Redshift-161616?style=for-the-badge)
+![Snowflake](https://img.shields.io/badge/Snowflake-161616?style=for-the-badge&logo=snowflake&logoColor=ededed)
+![DataZone](https://img.shields.io/badge/DataZone-161616?style=for-the-badge)
+
+**Infrastructure, observability & DevOps**<br />
+![CloudFormation](https://img.shields.io/badge/CloudFormation-161616?style=for-the-badge)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-161616?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-161616?style=for-the-badge&logo=docker&logoColor=ededed)
+![Linux](https://img.shields.io/badge/Linux-161616?style=for-the-badge&logo=linux&logoColor=ededed)
+![Prometheus](https://img.shields.io/badge/Prometheus-161616?style=for-the-badge&logo=prometheus&logoColor=ededed)
+![Grafana](https://img.shields.io/badge/Grafana-161616?style=for-the-badge&logo=grafana&logoColor=ededed)
+![Git](https://img.shields.io/badge/Git-161616?style=for-the-badge&logo=git&logoColor=ededed)
+![GitHub](https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=ededed)
+![Kubernetes (learning)](https://img.shields.io/badge/Kubernetes-learning-2b2b2b?style=for-the-badge&logo=kubernetes&logoColor=ededed&labelColor=161616)
+![Terraform (learning)](https://img.shields.io/badge/Terraform-learning-2b2b2b?style=for-the-badge&logo=terraform&logoColor=ededed&labelColor=161616)
+
+**Analytics, BI & tools**<br />
+![Tableau](https://img.shields.io/badge/Tableau-161616?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-161616?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-161616?style=for-the-badge&logo=jupyter&logoColor=ededed)
+![VS Code](https://img.shields.io/badge/VS%20Code-161616?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-161616?style=for-the-badge&logo=jira&logoColor=ededed)
+![Confluence](https://img.shields.io/badge/Confluence-161616?style=for-the-badge&logo=confluence&logoColor=ededed)
+
+**AI dev tools**<br />
+![Claude](https://img.shields.io/badge/Claude-161616?style=for-the-badge&logo=claude&logoColor=ededed)
+![Cursor](https://img.shields.io/badge/Cursor-161616?style=for-the-badge&logo=cursor&logoColor=ededed)
+![Gemini](https://img.shields.io/badge/Gemini-161616?style=for-the-badge&logo=googlegemini&logoColor=ededed)
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" align="top" alt="" /> What I work on
+
+<details open>
+<summary><b>Now: Protex AI</b> · Implementation Engineer</summary>
+<br />
+
+- Deploying and supporting computer‑vision safety systems at customer sites: cameras, edge devices, and cloud configuration.
+- Working with customer network and security teams on IP addressing, VLANs, VPNs, and firewall rules so edge devices reliably reach Protex services and EHS/BI integrations.
+- Troubleshooting Linux‑based edge devices and networking issues with logs, metrics, and structured root‑cause analysis.
+- Tracking rollouts and writing runbooks in Jira and Confluence, working with product and engineering on smooth go‑lives.
+
+</details>
+
+<details>
+<summary><b>Before: AWS</b> · Cloud Support Engineer</summary>
+<br />
+
+- Supported customer **analytics workloads on AWS**: Redshift, Snowflake, DataZone, RDS and related services.
+- Used **AWS CloudFormation** (JSON/YAML) to define and deploy Redshift clusters, VPC networking, and security groups as reusable templates across accounts.
+- Handled production incidents for data and analytics stacks: performance tuning, systematic troubleshooting, and long‑term fixes with service teams.
+
+</details>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30" align="top" alt="" /> Certifications & awards
+
+| AWS certifications | AWS Support awards |
+| :-- | :-- |
+| [Solutions Architect – Associate](https://www.credly.com/badges/fadf5281-c85f-4e35-ba4b-a30b808920d3/public_url) | [All‑Rounder Award](https://www.credly.com/badges/410d2ec2-0e23-4f7c-9ad8-fa42bd2501cb/public_url) |
+| [Cloud Practitioner](https://www.credly.com/badges/c452e8db-2eae-45a7-88bf-9eb8b1e85d6f/public_url) | [Wise Guru Award](https://www.credly.com/badges/623f6388-9c75-4d42-b338-22b3e66e68ab/public_url) |
+| [AI Practitioner](https://www.credly.com/badges/04c1fa91-e96a-4ebe-9152-1f4a6a4721a0/public_url) | Most Valuable Player, twice ([1](https://www.credly.com/badges/fb1322a2-d7c8-4eb8-85f7-db71017354b1/public_url), [2](https://www.credly.com/badges/14724238-846d-4607-b4ac-2480ad040ea4/public_url)) |
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30" align="top" alt="" /> GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daxton-moras&show_icons=true&hide_rank=true&hide=stars,issues&hide_border=true&bg_color=0a0a0a&title_color=ededed&text_color=888888&icon_color=ededed&ring_color=ededed&border_radius=6" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxton-moras&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ededed&text_color=888888&border_radius=6" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <!-- Replace developer.gif with any GIF you like in this repo -->
-  <img src="https://github.com/daxton-moras/daxton-moras/blob/main/developer.gif" width="460" height="300" alt="Developer at desk" />
-</p>
-
----
-
-## 💫 About Me
-
-Cloud Engineer with 4+ years of experience across cloud support, databases, data warehousing, analytics, and business intelligence.  
-I enjoy taking messy, production workloads and making them reliable, observable, and easy to reason about.
-
-- Currently **Implementation Engineer at Protex AI**, deploying computer‑vision safety systems, integrating with customer EHS/BI tools, and troubleshooting Linux/networking issues in the field.
-- Previously **Cloud Support Engineer at AWS**, supporting analytics services (Redshift, QuickSight, Neptune, DataZone), doing deep‑dive investigations and performance tuning for data pipelines and warehouses.
-- Comfortable working directly with customers, doing systematic troubleshooting and root‑cause analysis, and turning findings into runbooks, automation, and better architectures.
-
----
-
-## 🏆 Certifications & Awards
-
-- 🎓 **AWS Certifications**
-  - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/fadf5281-c85f-4e35-ba4b-a30b808920d3/public_url)
-  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/c452e8db-2eae-45a7-88bf-9eb8b1e85d6f/public_url)
-  - [AWS Certified AI Practitioner](https://www.credly.com/badges/04c1fa91-e96a-4ebe-9152-1f4a6a4721a0/public_url)
-
-- 🥇 **AWS Support Awards**
-  - [All‑Rounder Award](https://www.credly.com/badges/410d2ec2-0e23-4f7c-9ad8-fa42bd2501cb/public_url)
-  - [Wise Guru Award](https://www.credly.com/badges/623f6388-9c75-4d42-b338-22b3e66e68ab/public_url)
-  - Most Valuable Player Award, awarded twice ([badge 1](https://www.credly.com/badges/fb1322a2-d7c8-4eb8-85f7-db71017354b1/public_url), [badge 2](https://www.credly.com/badges/14724238-846d-4607-b4ac-2480ad040ea4/public_url))
-
----
-
-## 💻 Tech Stack
-
-### Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Cloud & Data Platforms (AWS Primary)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Neptune](https://img.shields.io/badge/Amazon%20Neptune-046C9A?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![DataZone](https://img.shields.io/badge/AWS%20DataZone-1D4ED8?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Infrastructure, Observability & DevOps
-![CloudFormation](https://img.shields.io/badge/CloudFormation-3B82F6?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes (learning)](https://img.shields.io/badge/Kubernetes-(learning)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform (learning)](https://img.shields.io/badge/Terraform-(learning)-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Analytics, BI & Developer Tools
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Collaboration & AI Dev Tools
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-0F172A?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-A855F7?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-111827?style=for-the-badge)
-
----
-
-## 📌 What I Work On
-
-**Currently – Protex AI (Implementation Engineer)**  
-- Deploying and supporting Protex AI’s computer‑vision safety systems at customer sites, including cameras, edge devices, and cloud configuration.  
-- Working with customer network and security teams on IP addressing, VLANs, VPNs, and firewall rules so edge devices can reliably reach Protex services and EHS/BI integrations.  
-- Troubleshooting Linux‑based edge devices and networking issues using logs, metrics, and structured root‑cause analysis.  
-- Using Jira and Confluence to track rollout tasks, document runbooks, and collaborate with product/engineering on smooth go‑lives.
-
-**Previously – AWS (Cloud Support Engineer)**  
-- Supporting customer **analytics workloads on AWS** using Redshift, Snowflake, DataZone, RDS, and related services.  
-- Using **AWS CloudFormation** (JSON/YAML) to define and deploy Redshift clusters, VPC networking, and security groups as reusable templates across accounts.  
-- Handling production incidents for data/analytics stacks: performance tuning, systematic troubleshooting, and long‑term fixes in partnership with service teams.
-
----
-
-## 🌐 Socials
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-608cff.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://daxton-portfolio-iota.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daxtonmoras)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daxton-moras)
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=daxton-moras&theme=tokyonight&hide_border=true&show_icons=true"
-    alt="Daxton's GitHub stats"
-  />
+  <img src="https://streak-stats.demolab.com?user=daxton-moras&hide_border=true&background=0a0a0a&ring=ededed&fire=ededed&currStreakNum=ededed&sideNums=ededed&currStreakLabel=888888&sideLabels=888888&dates=555555&stroke=2b2b2b&border_radius=6" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=daxton-moras&theme=tokyonight&hide_border=true"
-    alt="Daxton's GitHub streak"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daxton-moras/daxton-moras/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daxton-moras/daxton-moras/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/daxton-moras/daxton-moras/output/snake-dark.svg" alt="Snake eating my contribution graph" />
+  </picture>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxton-moras&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-  />
-</p>
+<p align="center"><sub>More at <a href="https://daxton-portfolio-iota.vercel.app">daxton-portfolio-iota.vercel.app</a></sub></p>
